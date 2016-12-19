@@ -23,7 +23,8 @@ body{
 
 
 .logo{
-    width: 100px;
+    width: 150px;
+    border-radius: 15px;
 }
 .title{
     color: #2D333A;
