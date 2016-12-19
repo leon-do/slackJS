@@ -73,11 +73,14 @@ hr{
 }
 .instructions{
     font-size: 0.3em;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 #selectChannelGif{
     width: 100%;
     max-width: 521px;
+}
+.line{
+    border:1px solid #F0DB4E;
 }
 
 
