@@ -95,6 +95,7 @@ hr{
 
 a {
     color: inherit;
+    text-decoration: inherit;
 }
 a:hover{
     color: #4D394B;
