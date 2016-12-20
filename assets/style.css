@@ -93,6 +93,12 @@ hr{
 
 
 
+a {
+    color: inherit;
+}
+a:hover{
+    color: #4D394B;
+}
 
 
 
