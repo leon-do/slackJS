@@ -68,12 +68,14 @@ hr{
     margin-bottom: 40px;
 }
 .instructionsTitle{
-    padding-top: 15px;
+    padding-top: 10px;
     font-size: 0.5em;
 }
 .instructions{
+    padding-top: 20px;
+    padding-bottom: 20px;
     font-size: 0.3em;
-    min-height: 80vh;
+    /*min-height: 80vh;*/
 }
 #selectChannelGif{
     width: 100%;
